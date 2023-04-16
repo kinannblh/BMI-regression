@@ -1,1 +1,7 @@
-# BMI-regression
+# BMI Level Regression
+
+Body mass index (BMI) is used to determine the body mass index by the body mass quotient expressed in kilograms (kg) by the square of body height expressed in square meters (m2). Body mass index is the most popular determinant of health to determine different aspects of its impact on physical, psychological, and social aspects of life. Body mass index is widely used to estimate the risk of underweight and obesity of examined person for the development of or the prevalence of several health issuses as it may be associated with the development of diseases classified as civilization diseases, such as diabetes, stroke, atherosclerosis, hypertension and nutrition disorders. The World Health Organization (WHO) has identified six ranges defining the state of the subject.
+
+Collectively, BMI study in the overall population can help measuring the rates of obesity in a population. As BMI is widely used by many healthcare providers and commonly works for most people, having changes in BMI levels provides an understanding of the ways overweight and obesity differ over time and in between distinct populations. This BMI information can also be a such an valuable information for health researchers to study the obesity epidemic and also policy maker to determine public health policies.
+
+This analytical study focus on determining which predictor variablesthat significantly influence the BMI level and how much significant the predictor's value to the BMI by conducting statistical analysis including performing statistical test and regression analysis from the given dataset.
